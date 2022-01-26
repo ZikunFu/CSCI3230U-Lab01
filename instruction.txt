@@ -1,0 +1,18 @@
+For the first week, create the skeleton of a web-based sudoku game, implemented as two web pages, a game page and a high scores page.
+For this, you need to create 2 HTML pages named: sudoku.html and high_scores.html. For each HTML file, please add the default HTML tags in the same way we did in the first lecture.
+
+Three folders: images, scripts and styles. Inside the images folder, adds the two attached images. Create a CSS file inside the styles folder name it sudoku.css. We will keep the scripts folder empty for now.
+
+The final structure should be as follow:
+sudoku_game/
+|--- images/
+|         |---  logo.gif
+|         |--- undo.png
+|---scripts/
+|---styles
+|        |---sudoku.css
+|--- sudoku.html
+|--- high_scores.html
+
+After you finish, please upload your code to a GitHub (Links to an external site.) repository and provide the link to your GitHub repository.  
+Due Feb 5
